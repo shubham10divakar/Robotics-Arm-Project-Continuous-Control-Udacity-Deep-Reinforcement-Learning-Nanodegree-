@@ -1,6 +1,7 @@
 # DRLND Continuous Control Project
 ---
-This is the second project in the Udacity Deep Reinforcement Learning Nanodegree. 
+This is the second project in the Udacity Deep Reinforcement Learning Nanodegree.
+https://medium.com/@shubham.divakar/continuous-control-robotics-arm-project-udacity-18e5d84c4abe
 
 This project works with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
